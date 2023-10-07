@@ -1,0 +1,17 @@
+.App{
+    margin:50px auto;
+    width:700px;
+    height: 500px;
+    text-align: center;
+    background-color: #e4e4e4;
+}
+.header{
+    color:rgb(0, 115, 255)
+}
+.Apphr{
+    margin-top:70px;
+    width:600px;
+   margin-left:40px;
+
+
+}
