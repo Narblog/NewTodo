@@ -1,0 +1,12 @@
+.addtext{
+    margin-top:100px;
+   
+}
+.box{
+    display: flex;
+    align-items: center;
+    padding: 5px;;
+}
+.Iteminput{
+    display: flex;
+}

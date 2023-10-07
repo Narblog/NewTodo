@@ -1,5 +1,5 @@
 import "./ItemsText.css"
-import ItemsIcons from "./ItemsIcons/ItemsIcons"
+import ItemsIcons from "../Component/ItemsIcons/ItemsIcons"
 function ItemsText (){
     return(
         <div className="ItemsText">

@@ -3,7 +3,8 @@ import AddItem from '../AddItem';
 import './App.css';
 import { BsFillCheckSquareFill } from "react-icons/bs";
 import Sort from '../Sort';
-import ItemsText from '../ItemsText';
+import Filter from '../Filter';
+import AddText from '../AddText';
 
 function App() {
   return (
@@ -11,9 +12,10 @@ function App() {
       <div className='container'>
       <h1 className='header'> <BsFillCheckSquareFill/> My Todo-s</h1>
     <AddItem/>
-    <hr className='Apphr'/>
+   <div className='line'></div>
     <Sort/>
-    <ItemsText/>
+    <Filter/>
+    <AddText/>
       </div>
     
    

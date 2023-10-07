@@ -8,10 +8,8 @@
 .header{
     color:rgb(0, 115, 255)
 }
-.Apphr{
-    margin-top:70px;
-    width:600px;
-   margin-left:40px;
-
-
+.line{
+    border:1px solid black;
+    margin-top:40px;
+    opacity: 0.5;
 }

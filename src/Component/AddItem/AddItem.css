@@ -1,0 +1,14 @@
+.Additem{
+  position: relative;
+}
+.buttonCalendar{
+    position: absolute;
+    top:12px;
+  right:60px;
+}
+.buttonAdd{
+    position: absolute;
+    top:12px;
+    right:10px;
+  
+}
