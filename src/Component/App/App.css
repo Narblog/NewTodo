@@ -1,9 +1,9 @@
 .App{
     margin:50px auto;
     width:700px;
-    height: 500px;
+    height: auto;
     text-align: center;
-    background-color: #e4e4e4;
+    background-color: #c8c8c8;
 }
 .header{
     color:rgb(0, 115, 255)

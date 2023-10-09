@@ -10,3 +10,48 @@
 .Iteminput{
     display: flex;
 }
+.todoicons{
+    display: flex;
+    float: right;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.todoText{
+    display: flex;
+    padding: 15px;
+    font-size: initial;
+    align-items: center;
+    justify-content: space-between;
+}
+.BsFillPencilFill{
+    color:blue;
+    cursor: pointer;
+}
+.BsArchiveFill{
+    color:#fb2020;
+    margin-left:13px;
+    cursor: pointer;
+    
+}
+.iconitems{
+    float: right;
+    cursor: pointer;
+}
+.iconitems button{
+    border:none;
+}
+.listitemeditinput{
+    outline: none;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    padding:2px 8px;
+}
+li{
+    list-style: none;
+}
+.buttonEdit{
+    border:none;
+    outline: none;
+    margin-left:30px;
+    background-color: #ccc;
+}
