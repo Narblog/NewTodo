@@ -33,10 +33,11 @@ export default function AddText({ todos, onDelete, onChangeTodo }) {
                                     key={id}>
                                     <input type="checkbox" />
 
-                                    <span>
+                                    <span    >
                                         {todo.Text}
                                         {onDelete}
-                                        {onChangeTodo}</span>
+                                     </span>
+                                     {onChangeTodo}
 
                                 </li>
                             }
